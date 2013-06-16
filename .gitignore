@@ -1,0 +1,7 @@
+.vagrant
+
+# vim temp file
+*.swp
+
+# behat directory
+behat
